@@ -3,4 +3,4 @@
 pip3 install youtube-dl
 
 cron
-exec ./main.py
+exec ./YtbDownBot
